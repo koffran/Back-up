@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1511122810 source:c:\users\frane\desktop\programacion\segundo parcial test\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1510958251 source:c:\users\frane\desktop\programacion\segundo parcial test\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510958251 c:\users\frane\desktop\programacion\segundo parcial test\arraylist.h
+
+1511187070 source:c:\users\frane\desktop\programacion\segundo parcial test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"ArrayList.h"
+
+1511187816 c:\users\frane\desktop\programacion\segundo parcial test\datos.h
+	"ArrayList.h"
+
+1511187816 source:c:\users\frane\desktop\programacion\segundo parcial test\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"validaciones.h"
+
+1510961534 c:\users\frane\desktop\programacion\segundo parcial test\validaciones.h
+
+1510961535 source:c:\users\frane\desktop\programacion\segundo parcial test\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\frane\desktop\programacion\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506719912 source:c:\users\frane\desktop\programacion\funciones\operaciones.c
+	<stdio.h>
+	"operaciones.h"
+
+1506719912 c:\users\frane\desktop\programacion\funciones\operaciones.h
+
+1506719912 source:c:\users\frane\desktop\programacion\funciones\validarnumeros.c
+	"validarNumeros.h"
+
+1506719912 c:\users\frane\desktop\programacion\funciones\validarnumeros.h
+

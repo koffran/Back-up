@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1507987978 source:c:\users\frane\desktop\programacion\tp val\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507987978 c:\users\frane\desktop\programacion\tp val\funciones.h
+
+1507987978 source:c:\users\frane\desktop\programacion\tp val\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
