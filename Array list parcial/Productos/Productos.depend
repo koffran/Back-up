@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1510665404 source:c:\users\alumno\desktop\productos\amb.c
+	<stdio.h>
+	<stdlib.h>
+	"AMB.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1510664398 c:\users\alumno\desktop\productos\amb.h
+	"ArrayList.h"
+
+1510664550 c:\users\alumno\desktop\productos\arraylist.h
+
+1510664398 c:\users\alumno\desktop\productos\funciones.h
+
+1510664570 source:c:\users\alumno\desktop\productos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510664398 source:c:\users\alumno\desktop\productos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1510664625 source:c:\users\alumno\desktop\productos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
